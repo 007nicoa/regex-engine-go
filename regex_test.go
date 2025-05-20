@@ -1,4 +1,4 @@
-package regexenginego
+package regex
 
 import (
 	"fmt"
